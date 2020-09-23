@@ -3,7 +3,7 @@ import { terser } from 'rollup-plugin-terser'
 export default {
     input: 'src/index.js',
     output: {
-        file: 'ez/ezdo.esm.js',
+        file: 'bin/aut.js',
         format: 'esm'
     },
     plugins: [ terser() ]
