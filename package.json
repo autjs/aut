@@ -1,10 +1,10 @@
 {
-  "name": "ezdo",
-  "version": "2.1.4",
+  "name": "aut.js",
+  "version": "0.0.1",
   "description": "构建用户界面的Javascript库",
-  "homepage": "https://ezdojs.github.io",
+  "homepage": "https://autjs.github.io",
   "private": false,
-  "main": "ez/ezdo.esm.js",
+  "main": "bin/aut.js",
   "scripts": {
     "build": "webpack",
     "build-esm": "rollup -c rollup.config.js"
